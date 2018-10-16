@@ -1,0 +1,3 @@
+/home/dong/CLionProjects/ex1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dong/CLionProjects/ex1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dong/CLionProjects/ex1/cmake-build-debug/CMakeFiles/ex1.dir

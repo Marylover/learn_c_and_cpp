@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled2.dir/inputchar.cpp.o  -o untitled2 
