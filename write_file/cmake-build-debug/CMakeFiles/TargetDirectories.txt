@@ -1,0 +1,3 @@
+/home/dong/CLionProjects/write_file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dong/CLionProjects/write_file/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dong/CLionProjects/write_file/cmake-build-debug/CMakeFiles/write_file.dir
