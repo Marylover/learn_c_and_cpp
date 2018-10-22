@@ -5,7 +5,7 @@
 #include <memory.h>
 
 /*
- * leetcode第18题，括号匹配，用栈，腾讯2018秋招
+ * leetcode第20题，括号匹配，用栈，腾讯2018秋招
  */
 
 
