@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dong/CLionProjects/isValid/main.c
+stdio.h
+-
+stdbool.h
+-
+strings.h
+-
+stdlib.h
+-
+memory.h
+-
+

@@ -1,0 +1,3 @@
+/home/dong/CLionProjects/isValid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dong/CLionProjects/isValid/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dong/CLionProjects/isValid/cmake-build-debug/CMakeFiles/isValid.dir
