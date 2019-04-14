@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/operationSystem.dir/main.c.o  -o operationSystem 
